@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Little presentention
+### 💬 Little presentention
 My name is hawai1401, but everyone knows me as hawai. Currently in 10th grade, I'm passionate about computers and aspire to become a web developer.
 I enjoy listening to music, watching TV series, and movies. But what I love most is coding.
 

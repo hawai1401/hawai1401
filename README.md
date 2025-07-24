@@ -46,6 +46,11 @@ I enjoy listening to music, watching TV series, and movies. But what I love most
 
 - This [small website](https://github.com/hawai1401/Pythagore) contains my first script in JavaScript that helps you with Pythagorean theorem.
 
+### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- This [small script](https://github.com/hawai1401/console.log) helps you to improve your console.log
+
+---
+
 <!--
 **hawai1401/hawai1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

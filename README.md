@@ -31,8 +31,8 @@ I enjoy listening to music, watching TV series, and movies. But what I love most
 ---
 
 ## 📫 How to reach me :
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) Discord : https://discord.gg/786dkBwb<br>
-![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Mail : hawai1401@ik.me
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) https://discord.gg/786dkBwb<br>
+![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) hawai1401@ik.me
 
 
 ---

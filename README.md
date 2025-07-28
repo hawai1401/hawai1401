@@ -20,7 +20,7 @@ I enjoy listening to music, watching TV series, and movies. But what I love most
 [![JavaScript and MySQL](https://skillicons.dev/icons?i=js,mysql)](https://skillicons.dev)
 
 ### 🕰️ I plan to learn...
-[![Discord.js, TypeScript, Python, Lua and PHP](https://skillicons.dev/icons?i=discordjs,ts,py,lua,php)](https://skillicons.dev)<br><br>
+[![Discord.js, TypeScript, Python, Lua and Node.js](https://skillicons.dev/icons?i=discordjs,ts,py,lua,nodejs)](https://skillicons.dev)<br><br>
 <img src="https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
 
 ---

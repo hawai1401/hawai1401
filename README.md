@@ -3,7 +3,7 @@
 My name is hawai1401, but everyone knows me as hawai. Currently in 10th grade, I'm passionate about computers and aspire to become a web developer.
 I enjoy listening to music, watching TV series, and movies. But what I love most is coding.
 
-### ℹ️ My [portfolio](https://hawai1401.ntlify.app/)
+### ℹ️ My [portfolio](https://hawai1401.netlify.app/)
 > [!NOTE]
 > It's in french for the moment, i'll add english soon...
 

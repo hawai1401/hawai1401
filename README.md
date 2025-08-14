@@ -14,14 +14,14 @@ I enjoy listening to music, watching TV series, and movies. But what I love most
 
 ## Langages </>
 ### ✅ I already know...
-[![HTML, CSS and JavaScript](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![HTML, CSS JavaScript and Express](https://skillicons.dev/icons?i=html,css,js,express)](https://skillicons.dev)<br><br>
 <img src="https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
 
 ### 🌱 I’m currently learning ...
 [![Node.js and MySQL](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
 
 ### 🕰️ I plan to learn...
-[![Discord.js, TypeScript, Python and Lua](https://skillicons.dev/icons?i=discordjs,ts,py,lua)](https://skillicons.dev)<br><br>
+[![Discord.js, TypeScript, Python and Lua](https://skillicons.dev/icons?i=discordjs,ts,py,lua)](https://skillicons.dev)
 
 ---
 

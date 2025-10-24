@@ -3,30 +3,30 @@
 My name is hawai1401, but everyone knows me as hawai. Currently in 10th grade, I'm passionate about computers and aspire to become a web developer.
 I enjoy listening to music, watching TV series, and movies. But what I love most is coding.
 
-### ℹ️ My [portfolio](https://hawai1401.netlify.app/)
+### ℹ️ My [portfolio](https://hawai1401.fr/)
 > [!NOTE]
 > It's in french for the moment, i'll add english soon...
 
-### ⭐ My favorite apps
-[![VS Code and Roblox Studion](https://skillicons.dev/icons?i=vscode,robloxstudio)](https://skillicons.dev)
+### ⭐ My favorite app
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ---
 
 ## Langages </>
 ### ✅ I already know...
-[![HTML, CSS JavaScript and Express](https://skillicons.dev/icons?i=html,css,js,express)](https://skillicons.dev)<br><br>
+[![HTML, CSS JavaScript, Express, Discord.js and TypeScript](https://skillicons.dev/icons?i=html,css,js,ts,express,discordjs)](https://skillicons.dev)<br><br>
 <img src="https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
 
 ### 🌱 I’m currently learning ...
-[![Node.js and MySQL](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
+[![Node.js, React and MySQL](https://skillicons.dev/icons?i=nodejs,react,mysql)](https://skillicons.dev)
 
 ### 🕰️ I plan to learn...
-[![Discord.js, TypeScript, Python and Lua](https://skillicons.dev/icons?i=discordjs,ts,py,lua)](https://skillicons.dev)
+[![Python and Lua](https://skillicons.dev/icons?i=py,lua)](https://skillicons.dev)
 
 ---
 
 ## 🔭 I’m currently working on ...
-> Nothing for the moment, i'm coding scripts in JavaScript to exercise.
+> A big project : Remake WhatsApp !
 
 ---
 
@@ -39,8 +39,7 @@ I enjoy listening to music, watching TV series, and movies. But what I love most
 
 ## 🧾 My projects
 ### ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- I created the Minecraft [Future 1.20 server site](https://hawai1401-test.netlify.app/future-1-20/), a project in progress.
-- I developed the Naratique [Discord bot site](https://hawai1401-test.netlify.app/Naratique), a multi-functional bot that allows you to manage servers and interact with users.
+- I created the Minecraft [Future 1.20 server site](https://future-1-20.netlify.app/), a project in progress.
 
 ### ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 

@@ -7,8 +7,8 @@ I enjoy listening to music, watching TV series, and movies. But what I love most
 > [!NOTE]
 > It's in french for the moment, i'll add english soon...
 
-### ⭐ My favorite app
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+### ⭐ Stats
+[![VS Code]([https://skillicons.dev/icons?i=vscode](https://github-readme-stats.vercel.app/api?username=hawai1401&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

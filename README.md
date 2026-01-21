@@ -1,66 +1,19 @@
-## Hi there 👋
-### 💬 Little presentention
-My name is hawai1401, but everyone knows me as hawai. Currently in 10th grade, I'm passionate about computers and aspire to become a web developer.
-I enjoy listening to music, watching TV series, and movies. But what I love most is coding.
-
-### ℹ️ My [portfolio](https://hawai1401.fr/)
-> [!NOTE]
-> It's in french for the moment, i'll add english soon...
-
-### ⭐ Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hawai1401?cardType=level&theme=dark&fontFamily=Poppins&preferLogin=false&Title=20DDA1)](https://git.io/awesome-stats-card)
-
----
-
-## Langages </>
-### ✅ I already know...
-[![HTML, CSS JavaScript, Express, Discord.js and TypeScript](https://skillicons.dev/icons?i=html,css,js,ts,express,discordjs)](https://skillicons.dev)<br><br>
-<img src="https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
-
-### 🌱 I’m currently learning ...
-[![Node.js, React and MySQL](https://skillicons.dev/icons?i=nodejs,react,mysql)](https://skillicons.dev)
-
-### 🕰️ I plan to learn...
-[![Python and Lua](https://skillicons.dev/icons?i=py,lua)](https://skillicons.dev)
-
----
-
-## 🔭 I’m currently working on ...
-> A big project : Remake WhatsApp !
-
----
-
-## 📫 How to reach me :
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) https://discord.gg/786dkBwb<br>
-![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) hawai1401@ik.me
+# 💫 About Me:
+Développeur web full-stack depuis bientôt 1 an, je conçois et développe des applications web complètes, de l’interface utilisateur à la logique serveur et au déploiement. Mon objectif est de produire des solutions fonctionnelles, maintenables et directement exploitables. Spécialisé en Next.js, TypeScript et Tailwind CSS, je conçois des sites vitrines performants, fluides et optimisés pour le SEO
 
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/786dkBwb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hawai1401@ik.me) 
 
-## 🧾 My projects
-### ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- I created the Minecraft [Future 1.20 server site](https://future-1-20.netlify.app/), a project in progress.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hawai1401&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hawai1401&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hawai1401&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hawai1401&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- This [small website](https://github.com/hawai1401/Pythagore) contains my first script in JavaScript that helps you with Pythagorean theorem.
-
-### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- This [small script](https://github.com/hawai1401/console.log) helps you to improve your console.log
-
----
-
-<!--
-**hawai1401/hawai1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-> - 🔭 I’m currently working on ...
-> - 🌱 I’m currently learning ...
-// - 👯 I’m looking to collaborate on ...
-// - 🤔 I’m looking for help with ...
-// - 💬 Ask me about ...
-> - 📫 How to reach me: ...
-// - 😄 Pronouns: ...
-// - ⚡ Fun fact: ...
--->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hawai1401&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
